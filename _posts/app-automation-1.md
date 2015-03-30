@@ -33,7 +33,7 @@ tags:
 
 ## 目前常用移动自动化测试框架的综合对比
 
-|**UiAutomator**|**Espresso**|**Robotium**|**Selendroid**|**Athrun**|**Appium**|
+||**UiAutomator**|**Espresso**|**Robotium**|**Selendroid**|**Athrun**|**Appium**|
 | :--: |:------:|:------:|:------:|:------:|:------:|:------:|
 |**支持Andorid**|Yes|Yes|Yes|Yes|Yes|Yes|
 |**支持iOS**|No|No|No|No|Yes|Yes|
