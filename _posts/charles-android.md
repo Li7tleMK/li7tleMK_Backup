@@ -27,7 +27,7 @@ tags:
 * 首先确认你的Android设备或模拟器和Mac在同一局域网下。比如你的Mac地址是`192.168.111.126`
 * 配置你的Android设备或者模拟器代理地址为`192.168.111.126`，端口号：`8888`（默认）。这里我使用模拟器，如果手机配置原理是一样的。
 
-<img style="clear:both;display:block;margin:auto;width:360px;height:640px" src="http://7xi85h.com1.z0.glb.clouddn.com/out.gif" alt="" />
+<img style="clear:both;display:block;margin:auto;width:384px;height:640px" src="http://7xi85h.com1.z0.glb.clouddn.com/out.gif" alt="" />
 
 * 配置好以后在你在Android端发起的任何http请求都会被Charles捕获到。
 <img style="clear:both;display:block;margin:auto;width:600px;height:420px" src="http://7xi85h.com1.z0.glb.clouddn.com/catch.gif" alt="" />
