@@ -41,5 +41,3 @@ tags:
 |**测试脚本语言**|Java|Java|Java|Java|Java|Almost Any|
 |**Android SDK**|大于16|8,10,15-19|All|All|All|All|
 |**社区/资料**|一般/多|一般/一般|活跃/多|一般/一般|很少/较少|活跃/较多|
-
-

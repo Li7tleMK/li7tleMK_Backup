@@ -42,3 +42,6 @@ google文档原文：
 ### singleInstance
 和singleTask有点类似，会新建一个Task，但是该Task中只有这个Activity唯一一个实例。不会出现singleTask的第二种情况。
 
+### 参考
+[解开Android应用程序组件Activity的"singleTask"之谜](http://blog.csdn.net/luoshengyang/article/details/6714543)
+
